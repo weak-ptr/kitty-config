@@ -13,7 +13,10 @@
 # Ignore Running Time General Files of Kitty
 kitty-*.pid
 *.session
+*.pyc
+__pycache__/
 
 
 # MacOS relationships Files
 .DS_Store
+*~
