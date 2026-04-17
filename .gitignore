@@ -1,0 +1,19 @@
+# Ignore Temporary Files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+
+# Ignore Cache Files
+*.cache
+*.log
+
+
+# Ignore Running Time General Files of Kitty
+kitty-*.pid
+*.session
+
+
+# MacOS relationships Files
+.DS_Store
